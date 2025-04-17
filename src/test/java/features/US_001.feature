@@ -21,3 +21,5 @@ Feature: As a user I should be able to access the home page
     When   The user waits for the page to fully load.
     And    The user checks the page title and verifies that it is "BuySellCycle | Multivendor Marketplace".
     Then   The user closes the browser.
+
+
